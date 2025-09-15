@@ -43,10 +43,7 @@ Welcome to my GitHub profile! I'm a passionate designer and developer who loves 
 
 ---
 
-## 📄 Resume  
-📥 [Download My Resume](https://drive.google.com/your-resume-link) *(link add karna na bhoolain!)*  
 
----
 
 ⭐ *Thanks for stopping by! Feel free to explore my repos or reach out for collaborations.*  
 
